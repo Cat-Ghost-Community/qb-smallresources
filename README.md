@@ -18,6 +18,10 @@ And Now choose the size you need. Currently, it is divided into three modes :
 
 ------------------------------
 
+🛠 Of course, it is in the initial state and will be better in the future 🛠
+
+------------------------------
+
 # qb-smallresources
 Base scripts for QB-Core Framework :building_construction:
 
