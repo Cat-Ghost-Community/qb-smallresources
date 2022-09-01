@@ -1,3 +1,23 @@
+qb-smallresources Update By BEN-G#1583
+
+Update :
+
+.Add Fps Menu (Fps Booster)
+
+How To Use Menu : 
+
+type /fmenu in your chat
+
+And Now choose the size you need. Currently, it is divided into three modes : 
+
+1. Ultra Low
+
+2. Low
+
+3. Medium
+
+------------------------------
+
 # qb-smallresources
 Base scripts for QB-Core Framework :building_construction:
 
